@@ -1,0 +1,345 @@
+ID,Pregunta,Categoría
+1,¿Cuál es la calificación promedio de Calico?,Estadística
+2,What's the average user rating for Calico?,Estadística
+3,¿Qué puntuación media han dado los jugadores a Calico?,Estadística
+4,How highly is Calico rated on average?,Estadística
+5,¿Cuántas valoraciones tiene Calico en total?,Estadística
+6,Total number of ratings submitted for Calico?,Estadística
+7,¿Cuántas personas han calificado este juego?,Estadística
+8,How many users have rated Calico?,Estadística
+9,¿Qué tan dispersas están las calificaciones de Calico?,Estadística
+10,What's the standard deviation of Calico's ratings?,Estadística
+11,¿La opinión sobre Calico es muy variada? (Desviación),Estadística
+12,Are ratings for Calico consistent or varied?,Estadística
+13,¿Cuál es el nivel de complejidad indicado para Calico?,Estadística
+14,What complexity weight does Calico have?,Estadística
+15,¿Es Calico un juego fácil o complejo según su métrica?,Estadística
+16,How is Calico's complexity weighted on the scale?,Estadística
+17,¿En qué posición está Calico en el ranking general?,Estadística
+18,What's Calico's overall board game rank?,Estadística
+19,¿Cómo se posiciona en la categoría Abstract?,Estadística
+20,How does Calico rank in family games?,Estadística
+21,¿Cuántas partidas registradas hay en total?,Estadística
+22,Total number of recorded plays for Calico?,Estadística
+23,¿Cuántas partidas se jugaron este mes?,Estadística
+24,How many plays occurred in the current month?,Estadística
+25,¿Cuántos dueños actuales tiene Calico?,Estadística
+26,How many users currently own Calico?,Estadística
+27,¿Cuántas copias estuvieron previamente en propiedad?,Estadística
+28,Number of previously owned copies?,Estadística
+29,¿Cuántos usuarios ofrecen Calico en intercambio?,Estadística
+30,How many copies are listed for trade?,Estadística
+31,¿Cuántos buscan obtener Calico por intercambio?,Estadística
+32,Users wanting to trade for Calico?,Estadística
+33,¿Cuántos lo tienen en lista de deseos?,Estadística
+34,How many wishlist entries does Calico have?,Estadística
+35,¿Es un juego frecuentemente deseado?,Estadística
+36,Is Calico commonly wishlisted?,Estadística
+37,¿Cuántos tienen componentes adicionales?,Estadística
+38,How many users report having extra parts?,Estadística
+39,¿Cuántos necesitan piezas de repuesto?,Estadística
+40,Users needing replacement parts?,Estadística
+41,Número total de comentarios en la plataforma,Estadística
+42,Total written comments about Calico?,Estadística
+43,¿Es un juego que genera mucho debate?,Estadística
+44,Does Calico inspire many user comments?,Estadística
+45,¿Cuántos fans oficiales registrados tiene?,Estadística
+46,Number of registered fans for Calico?,Estadística
+47,¿Tiene Calico una base de fans sólida?,Estadística
+48,How strong is Calico's fan following?,Estadística
+49,¿Cuántas visitas ha tenido su página?,Estadística
+50,Total page views for Calico's profile?,Estadística
+51,¿Es una página frecuentemente visitada?,Estadística
+52,How popular is Calico's page in views?,Estadística
+53,¿Cómo ha cambiado el número de dueños este año?,Estadística
+54,Ownership growth trends this year?,Estadística
+55,¿Aumentan los intercambios recientemente?,Estadística
+56,Recent changes in trade activity?,Estadística
+57,¿Qué % de dueños juegan activamente? (Own vs Plays),Estadística
+58,What percentage of owners actively play?,Estadística
+59,Ratio de deseos vs. propiedad,Estadística
+60,Wishlist-to-ownership ratio?,Estadística
+61,¿En qué países es más popular? (según visitas),Estadística
+62,Which regions have most Calico players?,Estadística
+63,¿Tiene más fans hombres o mujeres? (si el dato existe),Estadística
+64,Gender distribution among fans?,Estadística
+65,¿Cuántos años lleva en rankings?,Estadística
+66,How long has Calico maintained its rank?,Estadística
+67,¿Aumenta o disminuye su popularidad histórica?,Estadística
+68,Historical popularity trend: rising or falling?,Estadística
+69,¿Qué % de copias están en mercado secundario?,Estadística
+70,Percentage of copies in resale market?,Estadística
+71,¿Es fácil encontrar copias usadas?,Estadística
+72,Availability of second-hand copies?,Estadística
+73,¿Cómo afecta la complejidad a su calificación?,Estadística
+74,Does complexity correlate with its rating?,Estadística
+75,¿Prefieren los jugadores su peso estratégico?,Estadística
+76,Do players enjoy its weight level?,Estadística
+77,¿Cómo compara con juegos similares en su categoría?,Estadística
+78,How does it rank against similar abstract games?,Estadística
+79,¿Mejor posición que juegos de su año de lanzamiento?,Estadística
+80,Performance vs same-year releases?,Estadística
+81,¿Qué dato estadístico sorprende más de Calico?,Estadística
+82,Most surprising statistical fact about Calico?,Estadística
+83,¿Alguna métrica donde destaque excepcionalmente?,Estadística
+84,Any metric where Calico is an outlier?,Estadística
+85,¿Aumentarán los dueños el próximo año?,Estadística
+86,Predicted ownership growth next year?,Estadística
+87,¿Alcanzará el top 200 en ranking general?,Estadística
+88,Can Calico break into top 200 overall?,Estadística
+89,¿Qué componente genera más solicitudes de repuesto?,Estadística
+90,Most frequently requested replacement part?,Estadística
+91,¿Las fichas son duraderas? (según reportes),Estadística
+92,Component durability reports?,Estadística
+93,¿Cuántos dueños también lo tienen en wishlist?,Estadística
+94,Owners who also wishlist it?,Estadística
+95,¿Juegan más los dueños nuevos o veteranos?,Estadística
+96,Play frequency: new vs long-term owners?,Estadística
+97,¿Cuántas expansiones oficiales existen?,Estadística
+98,Number of official expansions released?,Estadística
+99,¿Tiene versión digital? (si aplica),Estadística
+100,Digital implementation availability?,Estadística
+101,¿En qué año se lanzó Calico?,Relaciones
+102,What year was Calico released?,Relaciones
+103,¿Quién es el diseñador principal de Calico?,Relaciones
+104,Who is the lead designer of Calico?,Relaciones
+105,¿Qué artista colaboró en el diseño visual de Calico?,Relaciones
+106,Which artist contributed to Calico’s visual design?,Relaciones
+107,¿Quién es el diseñador del modo en solitario?,Relaciones
+108,Who designed the solo mode for Calico?,Relaciones
+109,¿Qué premios ha ganado Calico? (si aplica),Relaciones
+110,What awards has Calico won? (if applicable),Relaciones
+111,¿Qué editoriales han publicado Calico?,Relaciones
+112,Which publishers have released Calico?,Relaciones
+113,¿Flatout Games es uno de los publicadores?,Relaciones
+114,Is Flatout Games one of the publishers?,Relaciones
+115,¿En qué países se distribuye Calico? (según editoriales),Relaciones
+116,In which countries is Calico distributed? (based on publishers),Relaciones
+117,¿Colaboró Ravensburger en la publicación?,Relaciones
+118,Did Ravensburger collaborate in publishing Calico?,Relaciones
+119,Nombra una editorial europea de Calico.,Relaciones
+120,Name a European publisher of Calico.,Relaciones
+121,¿Quiénes son los desarrolladores del juego?,Relaciones
+122,Who are the developers of the game?,Relaciones
+123,¿Kevin Russ participó en el desarrollo?,Relaciones
+124,Did Kevin Russ participate in development?,Relaciones
+125,¿Qué rol tuvo Dylan Mangini en el proyecto?,Relaciones
+126,What role did Dylan Mangini play in the project?,Relaciones
+127,Nombra tres diseñadores gráficos de Calico.,Relaciones
+128,Name three graphic designers for Calico.,Relaciones
+129,¿Shawn Stankewich trabajó en el diseño gráfico?,Relaciones
+130,Did Shawn Stankewich work on graphic design?,Relaciones
+131,¿En qué categorías temáticas se clasifica Calico?,Relaciones
+132,What thematic categories does Calico fall into?,Relaciones
+133,¿Es Calico un juego de colocación de fichas?,Relaciones
+134,Is Calico a tile-placement game?,Relaciones
+135,¿Qué mecánicas únicas incluye el juego?,Relaciones
+136,What unique mechanics does the game include?,Relaciones
+137,¿La "colección de conjuntos" es parte de sus mecánicas?,Relaciones
+138,Is "set collection" one of its mechanics?,Relaciones
+139,¿Se juega en un tablero hexagonal?,Relaciones
+140,Is it played on a hexagon grid?,Relaciones
+141,¿Calico pertenece a la familia "Juegos con gatos"?,Relaciones
+142,Does Calico belong to the "Cat-themed games" family?,Relaciones
+143,¿Tiene versión digital en Steam?,Relaciones
+144,Does it have a digital version on Steam?,Relaciones
+145,¿Fue financiado mediante Kickstarter?,Relaciones
+146,Was it crowdfunded via Kickstarter?,Relaciones
+147,¿Es parte de una saga o serie?,Relaciones
+148,Is it part of a series?,Relaciones
+149,¿El tema incluye actividades como tejer?,Relaciones
+150,Does the theme include activities like knitting?,Relaciones
+151,¿Qué editoriales asiáticas publicaron Calico?,Relaciones
+152,Which Asian publishers released Calico?,Relaciones
+153,¿MINDOK es una editorial asociada?,Relaciones
+154,Is MINDOK an associated publisher?,Relaciones
+155,¿Qué diseñador trabajó tanto en diseño como desarrollo?,Relaciones
+156,Which designer worked on both design and development?,Relaciones
+157,¿Existe una versión húngara de Calico? (Gém Klub Kft),Relaciones
+158,Is there a Hungarian version of Calico?,Relaciones
+159,¿Cryptic Cardboard es un publicador estadounidense?,Relaciones
+160,Is Cryptic Cardboard a US-based publisher?,Relaciones
+161,¿Cómo funciona el "drafting abierto" en Calico?,Relaciones
+162,How does "open drafting" work in Calico?,Relaciones
+163,¿Hay bonificaciones al final de la partida?,Relaciones
+164,Are there end-game bonuses?,Relaciones
+165,¿La colocación de fichas es estratégica?,Relaciones
+166,Is tile placement strategic in Calico?,Relaciones
+167,¿Se puede jugar en solitario?,Relaciones
+168,Can it be played solo?,Relaciones
+169,¿Qué significa "enclosure" en las mecánicas?,Relaciones
+170,What does "enclosure" mean in the mechanics?,Relaciones
+171,¿Beth Sobel es la artista principal?,Relaciones
+172,Is Beth Sobel the lead artist?,Relaciones
+173,¿Qué editoriales colaboraron con Flatout Games?,Relaciones
+174,Which publishers collaborated with Flatout Games?,Relaciones
+175,¿Robert Melvin participó en el desarrollo?,Relaciones
+176,Did Robert Melvin participate in development?,Relaciones
+177,¿Molly Johnson es una desarrolladora del juego?,Relaciones
+178,Is Molly Johnson a developer of the game?,Relaciones
+179,¿David Iezzi trabajó en el diseño?,Relaciones
+180,Did David Iezzi work on the design?,Relaciones
+181,¿El juego tiene un enfoque en animales?,Relaciones
+182,Does the game focus on animals?,Relaciones
+183,¿Las ilustraciones son de estilo realista o abstracto?,Relaciones
+184,Are the illustrations realistic or abstract?,Relaciones
+185,¿El tema incluye la creación de patrones textiles?,Relaciones
+186,Does the theme include textile pattern-making?,Relaciones
+187,¿Qué animales destacan en el juego?,Relaciones
+188,Which animals are prominent in the game?,Relaciones
+189,¿El arte refleja actividades manuales como tejer?,Relaciones
+190,Does the art reflect crafting activities like knitting?,Relaciones
+191,¿Qué empresas gestionan los derechos internacionales?,Relaciones
+192,Which companies manage international rights?,Relaciones
+193,¿En qué plataformas digitales está disponible?,Relaciones
+194,On which digital platforms is it available?,Relaciones
+195,¿Existe una versión de Tabletopia?,Relaciones
+196,Is there a Tabletopia version?,Relaciones
+197,¿Qué editorial maneja la versión en español?,Relaciones
+198,Which publisher handles the Spanish version?,Relaciones
+199,¿Lucky Duck Games publicó en Europa?,Relaciones
+200,Did Lucky Duck Games publish in Europe?,Relaciones
+201,¿Cómo se colocan los hexágonos al inicio de la partida?,Informacion
+202,How are tiles placed at the start of the game?,Informacion
+203,¿Qué ocurre si no se cumple un objetivo de grupo?,Informacion
+204,What happens if a group objective isn’t met?,Informacion
+205,¿Se pueden rotar las fichas después de colocarlas?,Informacion
+206,Can tiles be rotated after placement?,Informacion
+207,¿Cómo se determina el ganador en caso de empate?,Informacion
+208,How is the winner decided in a tie?,Informacion
+209,¿Cuál es el límite de fichas por jugador?,Informacion
+210,What’s the tile limit per player?,Informacion
+211,¿Qué estrategias recomiendan los jugadores expertos?,Informacion
+212,What strategies do expert players recommend?,Informacion
+213,¿Qué errores frecuentes se comenten en partidas rápidas?,Informacion
+214,What common mistakes occur in quick games?,Informacion
+215,¿La comunidad sugiere variantes caseras para más jugadores?,Informacion
+216,Does the community suggest house rules for more players?,Informacion
+217,¿Cómo califican los críticos la escalabilidad (2-4 jugadores)?,Informacion
+218,How do critics rate the scalability (2-4 players)?,Informacion
+219,¿Es considerado un juego "familiar" o más para expertos?,Informacion
+220,Is it considered a "family" game or for experts?,Informacion
+221,¿Qué elogian más: el arte o la mecánica?,Informacion
+222,What’s praised more: the art or mechanics?,Informacion
+223,¿Hay quejas recurrentes sobre la duración de las partidas?,Informacion
+224,Are there recurring complaints about game length?,Informacion
+225,¿Lo comparan con juegos como *Azul* o *Patchwork*?,Informacion
+226,Is it compared to games like Azul or Patchwork?,Informacion
+227,¿Cómo se prepara el tablero para el modo solitario?,Informacion
+228,How is the board set up for solo mode?,Informacion
+229,Paso a paso para resolver los objetivos de los gatos.,Informacion
+230,Step-by-step to resolve cat objectives.,Informacion
+231,¿Cómo se usan los botones de objetivo durante el juego?,Informacion
+232,How are goal buttons used during gameplay?,Informacion
+233,Instrucciones para mezclar las fichas de parche.,Informacion
+234,Instructions for shuffling patch tiles.,Informacion
+235,¿Dónde se colocan las fichas descartadas?,Informacion
+236,Where are discarded tiles placed?,Informacion
+237,¿Qué premios ha ganado Calico según Wikipedia?,Informacion
+238,What awards has Calico won according to Wikipedia?,Informacion
+239,¿Cuál es la historia detrás del diseño del juego?,Informacion
+240,What’s the backstory of the game’s design?,Informacion
+241,¿Hubo ediciones especiales o limitadas?,Informacion
+242,Were there special or limited editions?,Informacion
+243,¿Qué inspiración cultural tiene el tema de los gatos?,Informacion
+244,What cultural inspiration does the cat theme have?,Informacion
+245,¿Hay marcadores de puntuación incluidos?,Informacion
+246,Are scoring markers included?,Informacion
+247,¿Qué incluye la edición estándar vs. premium?,Informacion
+248,What’s included in standard vs. premium editions?,Informacion
+249,¿Es mejor enfocarse en gatos o patrones al principio?,Informacion
+250,Should you focus on cats or patterns early?,Informacion
+251,¿Cómo bloquear estratégicamente a otros jugadores?,Informacion
+252,How to strategically block other players?,Informacion
+253,¿Qué patrones dan más puntos en promedio?,Informacion
+254,Which patterns give the most points on average?,Informacion
+255,¿Conviene guardar fichas para rondas posteriores?,Informacion
+256,Is it wise to save tiles for later rounds?,Informacion
+257,¿Cómo maximizar los bonos de final de partida?,Informacion
+258,How to maximize end-game bonuses?,Informacion
+259,¿Por qué algunos jugadores confunden los patrones?,Informacion
+260,Why do some players misinterpret patterns?,Informacion
+261,¿Qué regla se omite con más frecuencia?,Informacion
+262,Which rule is most frequently overlooked?,Informacion
+263,¿Las cartas de objetivo se desteñen con el uso?,Informacion
+264,Do objective cards fade with use?,Informacion
+265,¿Hay expansiones oficiales que añadan más gatos?,Informacion
+266,Are there official expansions with more cats?,Informacion
+267,¿Una variante para reducir la duración del juego?,Informacion
+268,Is there a variant to shorten game length?,Informacion
+269,¿Se puede jugar con más de 4 jugadores?,Informacion
+270,Can you play with more than 4 players?,Informacion
+271,¿Hay torneos en línea de Calico?,Informacion
+272,Are there online Calico tournaments?,Informacion
+273,¿Hay streamers destacados que jueguen Calico?,Informacion
+274,Are there prominent streamers who play Calico?,Informacion
+275,¿Qué consejo darías a alguien que juega por primera vez?,Informacion
+276,What advice would you give to a first-time player?,Informacion
+277,¿Es necesario leer todo el manual antes de jugar?,Informacion
+278,Do you need to read the entire manual before playing?,Informacion
+279,¿Cómo explicar el juego en menos de 5 minutos?,Informacion
+280,How to teach the game in under 5 minutes?,Informacion
+281,¿Qué no debe faltar en la preparación inicial?,Informacion
+282,What’s essential in the initial setup?,Informacion
+283,¿Es apto para niños de 10 años?,Informacion
+284,Is it suitable for 10-year-olds?,Informacion
+285,¿Cómo se separan las losetas de puntuación de gatos al inicio?,Informacion
+286,How are cat scoring tiles separated at the start?,Informacion
+287,¿Cuántas losetas de diseño blanco y negras se colocan junto a cada loseta de gato?,Informacion
+288,How many black-and-white design tiles are placed next to each cat tile?,Informacion
+289,¿Dónde se colocan las losetas de parche al preparar el juego?,Informacion
+290,Where are patch tiles placed during setup?,Informacion
+291,¿Qué recibe cada jugador al comenzar la partida?,Informacion
+292,What does each player receive at the start?,Informacion
+293,¿Cuántas losetas de parche roba inicialmente cada jugador?,Informacion
+294,How many patch tiles do players initially draw?,Informacion
+295,¿Qué acciones se realizan en la Fase 1 del turno?,Informacion
+296,What actions are taken in Phase 1 of a turn?,Informacion
+297,¿Se pueden colocar losetas en cualquier espacio vacío del tablero?,Informacion
+298,Can tiles be placed in any empty space on the board?,Informacion
+299,¿Cómo se rellena la oferta de losetas después de robar?,Informacion
+300,How is the tile offer refilled after drawing?,Informacion
+301,¿Qué ocurre si se activa una bonificación de gato al colocar una loseta?,Informacion
+302,What happens if a cat bonus is triggered by placing a tile?,Informacion
+303,¿Se pueden rotar las losetas antes de colocarlas?,Informacion
+304,Can tiles be rotated before placement?,Informacion
+305,¿Cómo se determina el ganador en caso de empate en puntos?,Informacion
+306,How is the winner decided in case of a tie?,Informacion
+307,¿Qué elementos otorgan puntos al final de la partida?,Informacion
+308,Which elements award points at the end?,Informacion
+309,¿Cuántos puntos vale cada botón obtenido?,Informacion
+310,How many points is each button worth?,Informacion
+311,¿Qué sucede si no se cumplen las condiciones de una loseta de diseño?,Informacion
+312,What happens if a design tile’s conditions aren’t met?,Informacion
+313,¿Cómo se calculan los puntos de los botones arcoíris?,Informacion
+314,How are rainbow button points calculated?,Informacion
+315,¿Qué se necesita para atraer a un gato?,Informacion
+316,What is needed to attract a cat?,Informacion
+317,¿Se pueden atraer múltiples gatos del mismo tipo?,Informacion
+318,Can multiple cats of the same type be attracted?,Informacion
+319,¿Los grupos de patrones para gatos pueden tocar otros grupos?,Informacion
+320,Can cat pattern groups touch each other?,Informacion
+321,¿Qué indican los patrones preferidos en las losetas de gato?,Informacion
+322,What do preferred patterns on cat tiles indicate?,Informacion
+323,¿Cómo se colocan los gatos en el tablero una vez atraídos?,Informacion
+324,How are cats placed on the board once attracted?,Informacion
+325,¿En qué consiste la Variante Familiar?,Informacion
+326,What is the Family Variant?,Informacion
+327,¿Qué diferencia a la Variante Estratégica para 2 jugadores?,Informacion
+328,What distinguishes the Strategic Variant for 2 players?,Informacion
+329,¿Cómo funciona el modo solitario?,Informacion
+330,How does solo mode work?,Informacion
+331,¿Qué se hace con las losetas sobrantes en el modo solitario?,Informacion
+332,What happens to leftover tiles in solo mode?,Informacion
+333,¿Se pueden combinar múltiples variantes?,Informacion
+334,Can multiple variants be combined?,Informacion
+335,¿Se pueden usar los bordes del tablero para atraer gatos?,Informacion
+336,Can board edges be used to attract cats?,Informacion
+337,¿Qué significa "3 pares de diferente patrón" en una loseta?,Informacion
+338,What does "3 pairs of different patterns" mean?,Informacion
+339,¿Cómo se manejan los grupos de patrones que se superponen?,Informacion
+340,How are overlapping pattern groups handled?,Informacion
+341,¿Las losetas de diseño se revelan al inicio o durante el juego?,Informacion
+342,Are design tiles revealed at setup or during gameplay?,Informacion
+343,¿Qué ocurre si un jugador no puede robar una loseta de la oferta?,Informacion
+344,What happens if a player cannot draw from the offer?,Informacion
