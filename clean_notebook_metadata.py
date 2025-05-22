@@ -1,8 +1,8 @@
 import nbformat
 
 # Input and output notebook paths
-input_path = "Salary_Prediction.ipynb"
-output_path = "Salary_Prediction_CLEAN.ipynb"
+input_path = "TP1_P2_NLP_Cima_Nancy.ipynb"
+output_path = "TP1_P2_NLP_Cima_Nancy.ipynb"
 
 # Load the notebook
 with open(input_path, "r", encoding="utf-8") as f:
